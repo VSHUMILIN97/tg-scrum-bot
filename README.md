@@ -1,2 +1,2 @@
-# vshumilin1488-gmail.com
-scrum-bot
+# Scrum bot for tg
+
